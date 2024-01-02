@@ -1,0 +1,19 @@
+.welcom
+{
+    background-color: #24353f;
+    height: 20%;
+    width: 60%;
+    margin: auto;
+    margin-top: 15%;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    color: #17a2b8 ; 
+}
+.log
+{
+    height: 100vh;
+    background-color: #24353f;
+}
+.navbar
+{
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+}
